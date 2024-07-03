@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "870433154921",
+    "project_id": "provider-tutorial-45c89",
+    "storage_bucket": "provider-tutorial-45c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870433154921:android:501a1ec2bdf1fdb4063ff8",
+        "android_client_info": {
+          "package_name": "com.example.project_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870433154921-4363a94vl5hhenq5r2tgo5s8m0eri13i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcBde-3x2p5vIM2ez87truOmWc68TpDMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870433154921-4363a94vl5hhenq5r2tgo5s8m0eri13i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870433154921-ikbje17ifd8deehadbnrimvannt0ll9l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.providerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
